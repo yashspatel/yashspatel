@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sanjaykumar Patel</h1>
 <h3 align="center">I am an analytical and programming geek with active problem-solving skills with the help of modelling algorithms and statistical methods. Working to grow and expand my capabilities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashspatel&label=Profile%20views&color=0e75b6&style=flat" alt="yashspatel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashspatel" alt="yashspatel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Google Data Analytics**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://yashspatel.netlify.app/)
