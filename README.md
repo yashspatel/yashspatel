@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Google Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://yashspatel.netlify.app/](https://yashspatel.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yashspatel.netlify.app/)
 
 - 💬 Ask me about **Data's Power**
 
