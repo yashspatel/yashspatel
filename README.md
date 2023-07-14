@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Google Data Analytics**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yashspatel.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://yashspatel.netlify.app/)
 
 - 💬 Ask me about **Data's Power**
 
 - 📫 How to reach me **yashsanjaykumarpatel@gmail.com**
 
-- 📄 Know about my experiences [https://yashspatel.netlify.app/images/Yash's%20Resume.pdf](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf)
+- 📄 Know about my experiences in my [Resume](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
