@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yash Sanjaykumar Patel</h1>
 <h3 align="center">I am an analytical and programming geek with active problem-solving skills with the help of modelling algorithms and statistical methods. Working to grow and expand my capabilities.</h3>
 
+
 - 🌱 I’m currently learning **Google Data Analytics**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://yashspatel.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://yashspatel.netlify.app/).
 
-- 💬 Ask me about **Data's Power**
+- 💬 Ask me about **Data's Power**.
 
-- 📫 How to reach me **yashsanjaykumarpatel@gmail.com**
+- 📫 How to reach me **yashsanjaykumar Patel**.
 
-- 📄 Know about my experiences in my [Resume](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf)
+- 📄 Know about my experiences in my [Resume](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
