@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data's Power**
 
-- 📫 How to reach me **yashsanjaykumar Patel**
+- 📫 How to reach me **yashsanjaykumarpatel@gmail.com**
 
 - 📄 Know about my experiences [https://yashspatel.netlify.app/images/Yash's%20Resume.pdf](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf)
 
