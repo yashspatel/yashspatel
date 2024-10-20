@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yashsanjaykumar Patel**.
 
-- 📄 Know about my experiences in my [Resume](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf).
+- 📄 Know about my experiences in my [Resume](https://www.yashpatel.work/images/Yash's%20Resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
